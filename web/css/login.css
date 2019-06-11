@@ -1,0 +1,19 @@
+html.body{
+    height: 100%;
+    width: 100%;
+}
+
+.listo{
+    color: white;
+}
+.login-bg{
+    background-image: url(https://www.setaswall.com/wp-content/uploads/2017/03/Hd-Eiffel-Tower-Night-Wallpaper-1920x1080.jpg);
+    height: 100%;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: relative;
+    overflow: hidden;
+        
+}
